@@ -1,0 +1,1 @@
+{"name":"Local: findPath","url":"c:\\Users\\quochuy\\Documents\\Code\\contest\\findPath.cpp","tests":[{"id":1742283565461,"input":"3 5\n1 1 3 5\n1 0 1 0 0\n1 1 1 1 1\n1 0 0 0 1","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\quochuy\\Documents\\Code\\contest\\findPath.cpp","group":"local","local":true}
