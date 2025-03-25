@@ -11,7 +11,7 @@ void recur(int i, int j){
     {
         int i1 = i + dx[k];
         int j1 = j + dy[k];
-        if(i1 >= 0 && i1 <= n && j1 >= 0 && j1 <= m && a[i1][j1] == 1)
+        if(i1 >= 1 && i1 <= n && j1 >= 1 && j1 <= m && a[i1][j1] == 1)
        {
         recur(i1, j1);
        }
